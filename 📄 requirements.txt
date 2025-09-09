@@ -1,0 +1,3 @@
+telethon
+oandapyV20
+python-dateutil
